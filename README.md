@@ -1,6 +1,3 @@
-# ipParfait, j'ai tout. C'est juste la fin de l'exercice, page 10 à 12.
-
-Voilà la description du projet pour ton `README.md`, prête à copier-coller :
 # Mon Site Personnel - IPNET-IT130
 
 ## Description du projet
@@ -54,4 +51,4 @@ https://github.com/maelloush228cmd/ipnet-it130-maelle
 
 ## Auteur
 
-AKATOR MAELLE
+AKATOR MAELLE AKPEDZE
